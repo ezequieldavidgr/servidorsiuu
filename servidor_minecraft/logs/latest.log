@@ -1,0 +1,44 @@
+[01:27:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:27:39] [ServerMain/INFO]: Loaded 1407 recipes
+[01:27:39] [ServerMain/INFO]: Loaded 1520 advancements
+[01:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:27:39] [Server thread/INFO]: Loading properties
+[01:27:39] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:39] [Server thread/INFO]: Generating keypair
+[01:27:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:40] [Server thread/INFO]: Using epoll channel type
+[01:27:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:27:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:27:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:27:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:27:40] [Server thread/INFO]: Preparing level "world"
+[01:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:27:44] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[01:27:44] [Server thread/INFO]: Time elapsed: 4087 ms
+[01:27:44] [Server thread/INFO]: Done (4.378s)! For help, type "help"
+[01:28:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:29:47] [Server thread/INFO]: scorpj12[/127.161.178.146:57173] logged in with entity id 77 at (-103.5, 81.0, -23.5)
+[01:29:47] [Server thread/INFO]: scorpj12 joined the game
+[01:30:47] [Server thread/INFO]: pomquee[/127.186.91.157:43801] logged in with entity id 347 at (-136.20265431298, 72.0, -49.18925240024204)
+[01:30:47] [Server thread/INFO]: pomquee joined the game
+[01:31:04] [Server thread/INFO]: [Not Secure] <pomquee> onde estai
+[01:31:28] [Server thread/INFO]: [Not Secure] <scorpj12> emmm
+[01:31:33] [Server thread/INFO]: [Not Secure] <scorpj12> altoke
+[01:33:05] [Server thread/INFO]: [Not Secure] <scorpj12> cmo hacia para alejar la camara
+[01:33:09] [Server thread/INFO]: [Not Secure] <scorpj12> ?
+[01:33:12] [Server thread/INFO]: [Not Secure] <pomquee> menu
+[01:33:17] [Server thread/INFO]: [Not Secure] <pomquee> opciones
+[01:33:26] [Server thread/INFO]: [Not Secure] <pomquee> superior izquierda
+[01:33:32] [Server thread/INFO]: [Not Secure] <pomquee> donde dice fov
+[01:35:52] [Server thread/INFO]: [Not Secure] <pomquee> que hahce
+[01:36:32] [Server thread/INFO]: scorpj12 has made the advancement [Stone Age]
+[01:36:46] [Server thread/INFO]: pomquee has made the advancement [Stone Age]
+[01:37:16] [Server thread/INFO]: scorpj12 has made the advancement [Monster Hunter]
