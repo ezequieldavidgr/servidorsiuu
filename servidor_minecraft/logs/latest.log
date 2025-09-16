@@ -1,71 +1,55 @@
-[01:27:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:27:39] [ServerMain/INFO]: Loaded 1407 recipes
-[01:27:39] [ServerMain/INFO]: Loaded 1520 advancements
-[01:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:27:39] [Server thread/INFO]: Loading properties
-[01:27:39] [Server thread/INFO]: Default game type: SURVIVAL
-[01:27:39] [Server thread/INFO]: Generating keypair
-[01:27:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:27:40] [Server thread/INFO]: Using epoll channel type
-[01:27:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:27:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:27:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:27:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:27:40] [Server thread/INFO]: Preparing level "world"
-[01:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:27:44] [Worker-Main-3/INFO]: Preparing spawn area: 59%
-[01:27:44] [Server thread/INFO]: Time elapsed: 4087 ms
-[01:27:44] [Server thread/INFO]: Done (4.378s)! For help, type "help"
-[01:28:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:29:47] [Server thread/INFO]: scorpj12[/127.161.178.146:57173] logged in with entity id 77 at (-103.5, 81.0, -23.5)
-[01:29:47] [Server thread/INFO]: scorpj12 joined the game
-[01:30:47] [Server thread/INFO]: pomquee[/127.186.91.157:43801] logged in with entity id 347 at (-136.20265431298, 72.0, -49.18925240024204)
-[01:30:47] [Server thread/INFO]: pomquee joined the game
-[01:31:04] [Server thread/INFO]: [Not Secure] <pomquee> onde estai
-[01:31:28] [Server thread/INFO]: [Not Secure] <scorpj12> emmm
-[01:31:33] [Server thread/INFO]: [Not Secure] <scorpj12> altoke
-[01:33:05] [Server thread/INFO]: [Not Secure] <scorpj12> cmo hacia para alejar la camara
-[01:33:09] [Server thread/INFO]: [Not Secure] <scorpj12> ?
-[01:33:12] [Server thread/INFO]: [Not Secure] <pomquee> menu
-[01:33:17] [Server thread/INFO]: [Not Secure] <pomquee> opciones
-[01:33:26] [Server thread/INFO]: [Not Secure] <pomquee> superior izquierda
-[01:33:32] [Server thread/INFO]: [Not Secure] <pomquee> donde dice fov
-[01:35:52] [Server thread/INFO]: [Not Secure] <pomquee> que hahce
-[01:36:32] [Server thread/INFO]: scorpj12 has made the advancement [Stone Age]
-[01:36:46] [Server thread/INFO]: pomquee has made the advancement [Stone Age]
-[01:37:16] [Server thread/INFO]: scorpj12 has made the advancement [Monster Hunter]
-[01:37:48] [Server thread/INFO]: scorpj12 was slain by Zombie
-[01:38:25] [Server thread/INFO]: pomquee has made the advancement [Sweet Dreams]
-[01:38:33] [Server thread/INFO]: [Not Secure] <pomquee> duerme
-[01:38:40] [Server thread/INFO]: [Not Secure] <pomquee> el respwan
-[01:38:44] [Server thread/INFO]: scorpj12 has made the advancement [Sweet Dreams]
-[01:38:48] [Server thread/INFO]: [Not Secure] <pomquee> ven
-[01:38:57] [Server thread/INFO]: [Not Secure] <pomquee> cris
-[01:39:00] [Server thread/INFO]: pomquee was blown up by Creeper
-[01:39:13] [Server thread/INFO]: [Not Secure] <scorpj12> ajajajajaj
-[01:39:16] [Server thread/INFO]: [Not Secure] <pomquee> XDDD
-[01:39:20] [Server thread/INFO]: [Not Secure] <pomquee> VEN
-[01:39:50] [Server thread/INFO]: pomquee has made the advancement [Getting an Upgrade]
-[01:40:06] [Server thread/INFO]: pomquee has made the advancement [Monster Hunter]
-[01:40:09] [Server thread/INFO]: scorpj12 has made the advancement [Getting an Upgrade]
-[01:40:39] [Server thread/INFO]: [Not Secure] <pomquee> VEN
-[01:40:47] [Server thread/INFO]: [Not Secure] <pomquee> HIERRO
-[01:40:59] [Server thread/INFO]: [Not Secure] <scorpj12> food
-[01:41:02] [Server thread/INFO]: [Not Secure] <pomquee> escudos
-[01:41:12] [Server thread/INFO]: scorpj12 was slain by Zombie
-[01:43:00] [Server thread/INFO]: [Not Secure] <pomquee> cuidado hay un enderman
-[01:43:48] [Server thread/INFO]: pomquee has made the advancement [Acquire Hardware]
-[01:44:57] [Server thread/INFO]: [Not Secure] <pomquee> cuak es el plan
-[01:45:47] [Server thread/INFO]: [Not Secure] <scorpj12> were are you?
-[01:46:19] [Server thread/INFO]: [Not Secure] <pomquee> vayamos a la otra isla
-[01:46:20] [Server thread/INFO]: [Not Secure] <scorpj12> aplanemos para contruir la base
-[01:46:29] [Server thread/INFO]: [Not Secure] <pomquee> va
-[01:47:05] [Server thread/INFO]: [Not Secure] <pomquee> voy a buscar food
+[23:05:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:05:48] [ServerMain/INFO]: No existing world data, creating new world
+[23:05:49] [ServerMain/INFO]: Loaded 1407 recipes
+[23:05:49] [ServerMain/INFO]: Loaded 1520 advancements
+[23:05:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:05:49] [Server thread/INFO]: Loading properties
+[23:05:49] [Server thread/INFO]: Default game type: SURVIVAL
+[23:05:49] [Server thread/INFO]: Generating keypair
+[23:05:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:05:49] [Server thread/INFO]: Using epoll channel type
+[23:05:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:05:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:05:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:05:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:05:49] [Server thread/INFO]: Preparing level "world"
+[23:05:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:05:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:05:56] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:05:56] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:05:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:05:57] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:05:58] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:05:58] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:05:59] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:05:59] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:06:00] [Server thread/INFO]: Time elapsed: 4467 ms
+[23:06:00] [Server thread/INFO]: Done (10.202s)! For help, type "help"
+[23:06:38] [Server thread/INFO]: pomquee[/127.186.91.157:44143] logged in with entity id 12 at (-9.5, 112.0, -30.5)
+[23:06:38] [Server thread/INFO]: pomquee joined the game
+[23:08:30] [Server thread/INFO]: scorpj12[/127.161.178.146:33141] logged in with entity id 660 at (-5.5, 121.0, -37.5)
+[23:08:30] [Server thread/INFO]: scorpj12 joined the game
+[23:09:53] [Server thread/INFO]: pomquee lost connection: Disconnected
+[23:09:53] [Server thread/INFO]: pomquee left the game
+[23:10:56] [Server thread/INFO]: scorpj12 has made the advancement [Stone Age]
+[23:11:58] [Server thread/INFO]: scorpj12 has made the advancement [Getting an Upgrade]
+[23:20:50] [Server thread/INFO]: scorpj12 has made the advancement [Monster Hunter]
+[23:23:33] [Server thread/INFO]: pomquee[/127.186.91.157:36293] logged in with entity id 3022 at (-12.979027203173294, 113.0, -32.24297016950703)
+[23:23:33] [Server thread/INFO]: pomquee joined the game
+[23:24:49] [Server thread/INFO]: scorpj12 has made the advancement [Acquire Hardware]
+[23:25:11] [Server thread/INFO]: scorpj12 has made the advancement [Isn't It Iron Pick]
+[23:25:49] [Server thread/INFO]: pomquee lost connection: Disconnected
+[23:25:49] [Server thread/INFO]: pomquee left the game
+[23:27:35] [Server thread/INFO]: pomquee[/127.186.91.157:41789] logged in with entity id 3645 at (-19.69999998807907, 116.0, -63.69999998807907)
+[23:27:35] [Server thread/INFO]: pomquee joined the game
+[23:28:53] [Server thread/INFO]: pomquee has made the advancement [Stone Age]
+[23:29:00] [Server thread/INFO]: pomquee has made the advancement [Acquire Hardware]
+[23:30:43] [Server thread/INFO]: pomquee was shot by Skeleton
+[23:32:18] [Server thread/INFO]: pomquee has made the advancement [Monster Hunter]
+[23:32:20] [Server thread/INFO]: pomquee was shot by Skeleton
+[23:32:56] [Server thread/INFO]: pomquee has made the advancement [Not Today, Thank You]
+[23:42:02] [Server thread/INFO]: pomquee lost connection: Disconnected
+[23:42:02] [Server thread/INFO]: pomquee left the game
+[23:49:46] [Server thread/INFO]: scorpj12 lost connection: Disconnected
+[23:49:46] [Server thread/INFO]: scorpj12 left the game
+[23:50:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
