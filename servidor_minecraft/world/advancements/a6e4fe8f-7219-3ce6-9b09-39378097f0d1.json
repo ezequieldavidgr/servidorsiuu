@@ -1452,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-18 01:49:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-09-18 01:32:12 +0000"
