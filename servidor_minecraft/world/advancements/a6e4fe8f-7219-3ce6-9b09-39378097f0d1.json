@@ -1340,6 +1340,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-17 23:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-17 23:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-17 23:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-09-17 23:30:54 +0000"
@@ -1352,9 +1370,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-17 23:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-17 23:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-09-17 23:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-17 23:48:57 +0000"
     },
     "done": true
   },
@@ -1379,6 +1415,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-09-17 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-17 23:48:55 +0000"
     },
     "done": true
   },
